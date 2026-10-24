@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>3</order>
+        <published_ref/>
+        <question display_value="Priority">cc0a8fb67b7c4a1abba6160abcc7a5c5</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-24 04:24:02</sys_created_on>
+        <sys_id>c1b388a5e3b04cb694a244a8155fa33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Low</sys_name>
+        <sys_package display_value="Indoor Gardening Services Management (IGSM)" source="x_2061268_indoor_1">d99705ba47c81f10240ea09f016d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Indoor Gardening Services Management (IGSM)">d99705ba47c81f10240ea09f016d43bd</sys_scope>
+        <sys_update_name>question_choice_c1b388a5e3b04cb694a244a8155fa33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-24 04:24:02</sys_updated_on>
+        <text>Low</text>
+        <value>4</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=c1b388a5e3b04cb694a244a8155fa33c"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Garden Service Request">970c785168c54628bdae612216dcffd5</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-24 04:24:03</sys_created_on>
+        <sys_id>f48cf8a72a724ca196660219cfd43384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.</sys_name>
+        <sys_package display_value="Indoor Gardening Services Management (IGSM)" source="x_2061268_indoor_1">d99705ba47c81f10240ea09f016d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Indoor Gardening Services Management (IGSM)">d99705ba47c81f10240ea09f016d43bd</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f48cf8a72a724ca196660219cfd43384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-24 04:24:03</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

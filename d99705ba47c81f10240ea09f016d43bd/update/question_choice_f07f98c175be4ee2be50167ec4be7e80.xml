@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>5</order>
+        <published_ref/>
+        <question display_value="Plant Type">8a78477f62c947f9832e37419fee8819</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-24 04:24:03</sys_created_on>
+        <sys_id>f07f98c175be4ee2be50167ec4be7e80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tropical</sys_name>
+        <sys_package display_value="Indoor Gardening Services Management (IGSM)" source="x_2061268_indoor_1">d99705ba47c81f10240ea09f016d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Indoor Gardening Services Management (IGSM)">d99705ba47c81f10240ea09f016d43bd</sys_scope>
+        <sys_update_name>question_choice_f07f98c175be4ee2be50167ec4be7e80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-24 04:24:03</sys_updated_on>
+        <text>Tropical</text>
+        <value>tropical</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f07f98c175be4ee2be50167ec4be7e80"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dded66398439453badaeaf5e9d1dc124" extends="task" label="Gardening Service Request" name="x_2061268_indoor_1_garden_req" type="collection">
+        <element label="Plant Type" name="plant_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cactus" sequence="4" value="cactus"/>
+                <element inactive_on_update="false" label="Tropical" sequence="5" value="tropical"/>
+                <element inactive_on_update="false" label="Orchid" sequence="2" value="orchid"/>
+                <element inactive_on_update="false" label="Fern" sequence="1" value="fern"/>
+                <element inactive_on_update="false" label="Succulent" sequence="3" value="succulent"/>
+            </choice>
+        </element>
+        <element label="Requested For" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Plant Details" max_length="4000" name="plant_details" type="multi_two_lines"/>
+        <element label="Preferred Date" name="preferred_date" type="glide_date_time"/>
+        <element choice="1" label="Service Type" mandatory="true" name="service_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Watering" sequence="1" value="watering"/>
+                <element inactive_on_update="false" label="Pruning" sequence="2" value="pruning"/>
+                <element inactive_on_update="false" label="Fertilizing" sequence="3" value="fertilizing"/>
+            </choice>
+        </element>
+    </element>
+</database>

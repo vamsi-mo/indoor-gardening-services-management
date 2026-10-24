@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>ZMQHmei0fJkiTlicVFf+BGrxx746zhGixxDmx8TaFMI=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2061268_indoor_1.gardener1</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>gardener1</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-24 03:51:13</sys_created_on>
+        <sys_id>533a813e47c81f10240ea09f016d43f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2061268_indoor_1.gardener1</sys_name>
+        <sys_package display_value="Indoor Gardening Services Management (IGSM)" source="x_2061268_indoor_1">d99705ba47c81f10240ea09f016d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Indoor Gardening Services Management (IGSM)">d99705ba47c81f10240ea09f016d43bd</sys_scope>
+        <sys_update_name>sys_user_role_533a813e47c81f10240ea09f016d43f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-24 03:51:13</sys_updated_on>
+    </sys_user_role>
+</record_update>

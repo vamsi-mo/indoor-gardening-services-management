@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>4</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>priority</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_2061268_indoor_1_garden_req</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-24 04:24:05</sys_created_on>
+        <sys_id>887cf8a77ee44219a5eb6497731f1642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="Indoor Gardening Services Management (IGSM)" source="x_2061268_indoor_1">d99705ba47c81f10240ea09f016d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Indoor Gardening Services Management (IGSM)">d99705ba47c81f10240ea09f016d43bd</sys_scope>
+        <sys_update_name>sys_dictionary_override_887cf8a77ee44219a5eb6497731f1642</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-24 04:24:05</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

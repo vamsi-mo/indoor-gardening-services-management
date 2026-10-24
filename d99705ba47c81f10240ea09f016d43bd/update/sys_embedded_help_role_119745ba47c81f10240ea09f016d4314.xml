@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_2061268_indoor_1.admin" name="x_2061268_indoor_1.admin">559745ba47c81f10240ea09f016d4311</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-24 03:39:29</sys_created_on>
+        <sys_id>119745ba47c81f10240ea09f016d4314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>559745ba47c81f10240ea09f016d4311</sys_name>
+        <sys_package display_value="Indoor Gardening Services Management (IGSM)" source="x_2061268_indoor_1">d99705ba47c81f10240ea09f016d43bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Indoor Gardening Services Management (IGSM)">d99705ba47c81f10240ea09f016d43bd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_119745ba47c81f10240ea09f016d4314</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-24 03:39:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
